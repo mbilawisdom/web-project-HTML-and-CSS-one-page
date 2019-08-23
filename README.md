@@ -1,1 +1,3 @@
 FIRST WEB PROJECT AS A LEARNER
+HTML +  CSS
+Not Responsive
